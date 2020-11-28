@@ -16,6 +16,7 @@ class CSVFile:
 
         total_values = []
         my_file = open(self.name, "r")
+        
 
         for line in my_file:
             elements = line.split(',')
