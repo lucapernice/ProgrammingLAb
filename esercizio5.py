@@ -61,7 +61,6 @@ except FileNotFoundError:
 print(mio_file.name)
 mio_file.get_data(12,15)
 
-class TestGet_Data(unittest.TestCase):
-    def 
+
 
 
