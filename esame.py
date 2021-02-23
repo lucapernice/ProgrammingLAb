@@ -119,7 +119,7 @@ def suddivisione(lista_dati):
         ore.append([lista_dati[i-2][1],lista_dati[i-1][1],lista_dati[i][1]]) 
     
 
-    print(ore)
+    
     return ore
 
 #la funzione contatore prenerà come imput il return della funzione suddivisione. Serve a contare il numero di variazioni di trend
